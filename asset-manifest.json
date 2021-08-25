@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-komodo/static/css/main.93fc7162.chunk.css",
+    "main.js": "/react-komodo/static/js/main.0511b7a6.chunk.js",
+    "main.js.map": "/react-komodo/static/js/main.0511b7a6.chunk.js.map",
+    "runtime-main.js": "/react-komodo/static/js/runtime-main.ee659910.js",
+    "runtime-main.js.map": "/react-komodo/static/js/runtime-main.ee659910.js.map",
+    "static/js/2.6556f127.chunk.js": "/react-komodo/static/js/2.6556f127.chunk.js",
+    "static/js/2.6556f127.chunk.js.map": "/react-komodo/static/js/2.6556f127.chunk.js.map",
+    "static/js/3.01ac9490.chunk.js": "/react-komodo/static/js/3.01ac9490.chunk.js",
+    "static/js/3.01ac9490.chunk.js.map": "/react-komodo/static/js/3.01ac9490.chunk.js.map",
+    "index.html": "/react-komodo/index.html",
+    "static/css/main.93fc7162.chunk.css.map": "/react-komodo/static/css/main.93fc7162.chunk.css.map",
+    "static/js/2.6556f127.chunk.js.LICENSE.txt": "/react-komodo/static/js/2.6556f127.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-komodo/static/media/IRANSansBold.cd9ebcd6.ttf",
+    "static/media/IRANSansRegular.e9b1429e.ttf": "/react-komodo/static/media/IRANSansRegular.e9b1429e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee659910.js",
+    "static/js/2.6556f127.chunk.js",
+    "static/css/main.93fc7162.chunk.css",
+    "static/js/main.0511b7a6.chunk.js"
+  ]
+}
