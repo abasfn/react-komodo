@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-komodo/static/css/main.93fc7162.chunk.css",
-    "main.js": "/react-komodo/static/js/main.0511b7a6.chunk.js",
-    "main.js.map": "/react-komodo/static/js/main.0511b7a6.chunk.js.map",
+    "main.css": "/react-komodo/static/css/main.4e3b9693.chunk.css",
+    "main.js": "/react-komodo/static/js/main.ff9190a4.chunk.js",
+    "main.js.map": "/react-komodo/static/js/main.ff9190a4.chunk.js.map",
     "runtime-main.js": "/react-komodo/static/js/runtime-main.ee659910.js",
     "runtime-main.js.map": "/react-komodo/static/js/runtime-main.ee659910.js.map",
     "static/js/2.6556f127.chunk.js": "/react-komodo/static/js/2.6556f127.chunk.js",
@@ -10,15 +10,24 @@
     "static/js/3.01ac9490.chunk.js": "/react-komodo/static/js/3.01ac9490.chunk.js",
     "static/js/3.01ac9490.chunk.js.map": "/react-komodo/static/js/3.01ac9490.chunk.js.map",
     "index.html": "/react-komodo/index.html",
-    "static/css/main.93fc7162.chunk.css.map": "/react-komodo/static/css/main.93fc7162.chunk.css.map",
+    "static/css/main.4e3b9693.chunk.css.map": "/react-komodo/static/css/main.4e3b9693.chunk.css.map",
     "static/js/2.6556f127.chunk.js.LICENSE.txt": "/react-komodo/static/js/2.6556f127.chunk.js.LICENSE.txt",
+    "static/media/Capture.c7b52c2c.png": "/react-komodo/static/media/Capture.c7b52c2c.png",
     "static/media/index.css": "/react-komodo/static/media/IRANSansBold.cd9ebcd6.ttf",
-    "static/media/IRANSansRegular.e9b1429e.ttf": "/react-komodo/static/media/IRANSansRegular.e9b1429e.ttf"
+    "static/media/IRANSansRegular.e9b1429e.ttf": "/react-komodo/static/media/IRANSansRegular.e9b1429e.ttf",
+    "static/media/about-logo.67877323.png": "/react-komodo/static/media/about-logo.67877323.png",
+    "static/media/download-image.df5f4bb7.png": "/react-komodo/static/media/download-image.df5f4bb7.png",
+    "static/media/feature-image.30d6286b.png": "/react-komodo/static/media/feature-image.30d6286b.png",
+    "static/media/gallery-2.ba8e311b.jpg": "/react-komodo/static/media/gallery-2.ba8e311b.jpg",
+    "static/media/gallery-4 -3.07b2d07c.jpg": "/react-komodo/static/media/gallery-4 -3.07b2d07c.jpg",
+    "static/media/gallery-4.103aea1b.jpg": "/react-komodo/static/media/gallery-4.103aea1b.jpg",
+    "static/media/logo.888e98ad.png": "/react-komodo/static/media/logo.888e98ad.png",
+    "static/media/nezam-senfi.9b696c23.png": "/react-komodo/static/media/nezam-senfi.9b696c23.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ee659910.js",
     "static/js/2.6556f127.chunk.js",
-    "static/css/main.93fc7162.chunk.css",
-    "static/js/main.0511b7a6.chunk.js"
+    "static/css/main.4e3b9693.chunk.css",
+    "static/js/main.ff9190a4.chunk.js"
   ]
 }
